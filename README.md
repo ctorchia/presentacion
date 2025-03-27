@@ -22,3 +22,4 @@
 <h4>Realicé varios cursos relacionados a Desarrollo Web y me gustó mucho esa arista de la informática.</h4>
 <h4>Mi objetivo es obtener bases sólidas de conocimiento para complementarlas con experiencia y poder en un futuro aspirar a un cargo gerencial.</h4>
 
+## AGREGADO Nro 1
